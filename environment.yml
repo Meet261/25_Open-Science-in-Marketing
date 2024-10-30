@@ -1,0 +1,9 @@
+name: open_science_marketing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
